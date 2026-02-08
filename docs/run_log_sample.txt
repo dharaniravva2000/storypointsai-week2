@@ -1,0 +1,7 @@
+2026-02-07T23:14:14Z | WARNING | Skipping exchange-rate API call by user request.
+2026-02-07T23:14:15Z | INFO | Read 200000 rows from clickstream.csv
+2026-02-07T23:14:15Z | INFO | Wrote 200000 records to data/clean/clickstream/ingest_date=2026-02-07/clickstream.csv
+2026-02-07T23:14:15Z | WARNING | No exchange rates available; amount_in_usd will be null.
+2026-02-07T23:14:15Z | INFO | Read 100000 rows from transactions.csv
+2026-02-07T23:14:15Z | INFO | Wrote 100000 records to data/clean/transactions/ingest_date=2026-02-07/transactions.csv
+2026-02-07T23:14:15Z | INFO | ETL complete.

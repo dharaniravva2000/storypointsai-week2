@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.data/
+.DS_Store
+.env
+
+# Generated outputs
+/data/clean/
+/data/raw/api_currency/
