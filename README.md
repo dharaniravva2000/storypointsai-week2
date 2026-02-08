@@ -93,3 +93,8 @@ A sample run log (captured on 2026-02-07 with `--skip-api`) is saved at `docs/ru
 - ExchangeRate-API provides USD-based rates (`1 USD = rate[currency]`).
 - All timestamps are parsed and normalized to UTC.
 - GCS upload uses Application Default Credentials or a service account key.
+
+## Screenshots
+![GCS clean clickstream](docs/screenshots/gcs_clean_clickstream.png)
+![GCS clean transactions](docs/screenshots/gcs_clean_transactions.png)
+![GCS raw API JSON](docs/screenshots/gcs_raw_api_json.png)
